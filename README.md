@@ -4,9 +4,9 @@ Este projeto é referente a cursos e minhas experiências com coleta de dados us
 
 O projeto está dividido em 2 partes:
 
-### 1. [Introdução à data cleaning: mudança de tipo de variável, tratamento de duplicadas e restrições de variáveis](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/1)
+### 1. [Introdução de código HTML e XPath](https://github.com/AlbertoRodrigues/Web-Scrapping-in-Python/tree/master/1.introducao_html_e_xpath)
 
-### 2. [Tratando strings e fora dos valores esperados](https://github.com/AlbertoRodrigues/cleaning_data_in_python/tree/master/2)
+### 2. [Biblioteca Scrapy para Web Scrapping e funções do XPath](https://github.com/AlbertoRodrigues/Web-Scrapping-in-Python/tree/master/2.funcoes_xpath_e_coleta_dados)
 
 
 ## Referências 
